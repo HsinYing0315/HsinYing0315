@@ -23,12 +23,21 @@
 
 ## 🛠 Tech Stack
 
+### 🎨 Frontend
+React / Vue / Nuxt3 / TailwindCSS
+
+### ⚙️ Backend
+Python / TypeScript / RESTful APIs  
+
+### 🗄 Database
+PostgreSQL / Firebase  
+
+### 🚀 DevOps & Tools
+Docker / Git  
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,vue,nuxt,tailwind,ts,python,fastapi,postgres,firebase,docker,git" />
-
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,tailwind,ts,python,fastapi,postgres,firebase,docker,git" />
 </p>
-
 ---
 
 ## 💼 Experience
